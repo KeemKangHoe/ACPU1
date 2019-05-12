@@ -44,5 +44,4 @@
 <img src='박윤성 메롱.jpg' width='20%'>
 "키 커서 부럽지? 메롱~"
 </p>
-<style> body{background-color: grey}
 </html>
